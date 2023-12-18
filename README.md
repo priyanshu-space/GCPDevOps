@@ -1,2 +1,1 @@
-# GCPDevOps
-
+# This is a sample repo
